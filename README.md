@@ -12,7 +12,7 @@ To install and run this project you would need to have the following installed o
 To run:
 
 ```sh
-git clone <https://github.com/fegzycole/buy-coins-challenge.git>
+git clone https://github.com/fegzycole/buy-coins-challenge.git
 cd buy-coins-challenge
 npm install
 npm start-dev
