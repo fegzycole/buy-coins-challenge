@@ -7,6 +7,11 @@ const app = express();
 
 dotenv.config();
 
+app.get('/', (req, res) => res.status(200).json({
+  status: 200,
+  message: 'Welcome to my version of the buy-coin API challenge',
+}));
+
 app.use('/graphql', expressGraphQl);
 
 const PORT = process.env.PORT || 5100;
