@@ -3,7 +3,7 @@
 GraphQL server that returns the current price of bitcoin in NGN given a margin, exchangeRate and transaction type i.e (buy or sell)
 
 
-## DOCUMENTATION
+## Documentation
 
 [Graphql API Documentation](https://buy-coins.herokuapp.com/graphql)
 
